@@ -1,0 +1,35 @@
+{
+	"ImportPath": "github.com/iamjem/go-screenscrape-template",
+	"GoVersion": "go1.3.1",
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/cascadia",
+			"Comment": "null-31",
+			"Rev": "5d796540e3cb93ea0556c897e6a3c7690f614d35"
+		},
+		{
+			"ImportPath": "github.com/PuerkitoBio/goquery",
+			"Comment": "v0.3.2-69-g4cf64c5",
+			"Rev": "4cf64c51f7e80d56d9ae2ffe7d684d3dd5dbd5d0"
+		},
+		{
+			"ImportPath": "github.com/Sirupsen/logrus",
+			"Comment": "v0.6.2-10-g51fe59a",
+			"Rev": "51fe59aca108dc5680109e7b2051cbdcfa5a253c"
+		},
+		{
+			"ImportPath": "github.com/coopernurse/gorp",
+			"Comment": "v1.7",
+			"Rev": "5d19ebd22fdcf3b9fb1c8cbfcf1d4e78e102f1e0"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Rev": "c6325123e6d45115749734a8bc35060ebac74d0e"
+		},
+		{
+			"ImportPath": "golang.org/x/net/html",
+			"Comment": "null-204",
+			"Rev": "8fd8d3a0313cb59e495106ac76df5da29381fa24"
+		}
+	]
+}

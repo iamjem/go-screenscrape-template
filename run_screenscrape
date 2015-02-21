@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+$GOPATH/bin/go-screenscrape-template \
+  -url http://www.acmewebcomics.com/comics/comic_name/
