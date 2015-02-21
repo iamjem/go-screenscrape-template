@@ -1,4 +1,4 @@
-This repository contains a simple screen scrape CLI written in Go. You can read the full blog post [here]().
+This repository contains a simple screen scrape CLI written in Go. You can read the full blog post [here](http://www.pixeldonor.com/2015/mar/01/golang-screen-scrape-cli/).
 
 # Environment Variables
 The CLI uses the following environment variables:
